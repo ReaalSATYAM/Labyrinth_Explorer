@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "header_file/playerMovement.h" 
+#include "playerMovement.h" 
 #define Maze_Size 550
 #define Maze_width 50
 
