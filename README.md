@@ -41,12 +41,6 @@ This is a simple maze game implemented in C. Players navigate through a maze usi
     ```bash
     ./maze_game
     ```
-3. **Main Menu**: Upon running the program, you will see a main menu with options to start a new game or exit.
-4. **Game Rules**: If you choose to start a new game, the game rules will be displayed. Press Enter to start the game.
-5. **Gameplay**: Use 'W', 'A', 'S', and 'D' to move the player up, left, down, and right, respectively. Press the spacebar to move four blocks to the right. Avoid collision with obstacles ('#') and reach the exit ('O') to win.
-6. **Game Over**: If the player collides with an obstacle, the game will end, and you'll see a "Game Over" message. Press any key to return to the main menu.
-7. **Win**: If the player reaches the exit, a "YOU WIN!!!" message will be displayed. Press any key to return to the main menu.
-8. **Exit**: Choose the exit option from the main menu to quit the game.
 
 ## Files
 
@@ -59,5 +53,13 @@ This is a simple maze game implemented in C. Players navigate through a maze usi
 - The maze size and width can be adjusted by modifying the `Maze_Size` and `Maze_width` constants.
 - For Unix-like systems, replace `system("cls")` with `printf("\033[2J \033[H")` in the code to clear the screen.
 - This game does not have any graphical user interface and is played entirely using keyboard inputs and text-based output.
+
+## Contributing
+Feel free to contribute to this project by submitting pull requests.
+
+## Contact
+- Email: satyamnaithani14@gmail.com
+- - GitHub: [GitHub Profile](https://github.com/ReaalSATYAM)
+- GitHub: [GitHub Profile](https://github.com/ReaalSATYAM)
 
 Enjoy playing the maze game! 🎮🧩
