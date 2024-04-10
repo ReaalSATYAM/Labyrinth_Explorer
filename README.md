@@ -45,8 +45,7 @@ This is a simple maze game implemented in C. Players navigate through a maze usi
 ## Files
 
 - `main.c`: Contains the main function and game loop.
-- `playerMovement.c`: Implements player movement and collision detection functions.
-- `playerMovement.h`: Header file declaring function prototypes and constants.
+- `playerMovement.h`: Header file  contains function prototypes and constant declarations related to player movement and collision detection.
 
 ## Notes
 
