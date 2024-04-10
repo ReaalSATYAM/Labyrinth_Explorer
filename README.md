@@ -25,7 +25,20 @@ Enter your choice (0 or 1):-
 This is a simple maze game implemented in C. Players navigate through a maze using keyboard inputs and attempt to reach the exit while avoiding obstacles.
 
 ## Features
-
+```bash
+##################################################
+# X                                              #
+#### #### # # #####   # # ###### ##    #### # ## #
+#                                                #
+### ##   ## ##  # ######  ###   ###   ### ## #####
+#                                                #
+# ######## ##  ## ####  # #  ## ######### ## ### #
+#                                                #
+## # #### ###  # #  #### # ###  # # # # ######  ##
+#                              O                 #
+##################################################
+Enter your move :- 
+```
 - **Player Movement**: Players can move up, down, left, or right within the maze using the keyboard inputs 'W', 'A', 'S', and 'D', respectively. They can also move four blocks to the right by pressing the spacebar.
 - **Obstacle Avoidance**: Players must avoid colliding with obstacles represented by '#' symbols in the maze.
 - **Game Over**: The game ends if the player collides with an obstacle or reaches the exit.
@@ -44,7 +57,7 @@ This is a simple maze game implemented in C. Players navigate through a maze usi
 
 ## Files
 
-- `main.c`: Contains the main function and game loop.
+- `maze.c`: Contains the main function and game loop.
 - `playerMovement.h`: Header file  contains function prototypes and constant declarations related to player movement and collision detection.
 
 ## Notes
