@@ -35,7 +35,7 @@ This is a simple maze game implemented in C. Players navigate through a maze usi
 
 1. **Compilation**: Compile the program using a C compiler such as GCC. For example:
     ```bash
-    gcc main.c playerMovement.c -o maze_game
+    gcc maze.c playerMovement.h -o maze_game
     ```
 2. **Execution**: Run the compiled program:
     ```bash
