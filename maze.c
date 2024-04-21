@@ -42,7 +42,7 @@ void rules()
     printf("8. Press Enter after each move.\n");
     printf("\nPress Enter to start the game!");
     getchar(); // Wait for Enter key
-    system("cls");; // Clear the screen
+    system("cls"); // Clear the screen
 }
 // Function to show the main menu and get user choice
 int showMenu() {
