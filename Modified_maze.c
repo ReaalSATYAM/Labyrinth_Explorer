@@ -1,3 +1,5 @@
+// NOTE
+//This version might not work in modern C compiler but it will work in vs code.  
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -121,7 +123,6 @@ void pattern(char arr[])
             printf("%c", arr[i]);
             i++;
         }
-    
     }
     printf("\n");
     
