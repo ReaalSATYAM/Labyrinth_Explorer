@@ -1,5 +1,5 @@
-// NOTE
-//This version might not work in modern C compiler but it will work in vs code.  
+/* This project utilizes connio.h. Keep in mind that connio.h may not be compatible with newer C compilers, 
+but it's expected to function properly within the VS Code environment. */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
